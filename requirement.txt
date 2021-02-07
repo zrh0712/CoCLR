@@ -1,0 +1,4 @@
+tensorboardX
+matplotlib
+lmdb
+msgpack

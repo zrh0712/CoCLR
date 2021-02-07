@@ -26,7 +26,7 @@ __all__ = [
 ]
 
 # rewrite for yourself:
-lmdb_root = '/users/htd/beegfs/DATA/'
+lmdb_root = '/opt/tiger/data/UCF101/'
 
 def read_file(path):
     with open(path, 'r') as f:
